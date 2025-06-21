@@ -1,0 +1,6 @@
+streamlit
+sounddevice
+scipy
+openai-whisper
+g4f
+requests
