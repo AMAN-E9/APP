@@ -1,6 +1,2 @@
-streamlit
-faster-whisper
-sounddevice
-scipy
 requests
-g4f
+streamlit
